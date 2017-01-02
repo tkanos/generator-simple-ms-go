@@ -1,0 +1,13 @@
+{
+  "name": "generator-simple-ms-go",
+  "version": "0.1.0",
+  "description": "",
+  "files": [
+    "generators",
+    "app"
+  ],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^1.0.1"
+  }
+}

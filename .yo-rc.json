@@ -1,0 +1,7 @@
+{
+  "generator-test": {
+    "promptValues": {
+      "app_name": "generator test"
+    }
+  }
+}
