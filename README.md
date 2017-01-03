@@ -14,5 +14,6 @@ now that we are ready to test.
 
 ```bash
 mkdir [ProjectName]
+cd [ProjectName]
 yo simple-ms-go
 ```
