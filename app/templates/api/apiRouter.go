@@ -11,7 +11,7 @@ func NewRouter(mainRouter *mux.Router) http.Handler {
 	apiRouter := mainRouter.PathPrefix("/api").Subrouter().StrictSlash(true)
 
 	//Create User Routes
-	search.NewRouter(apiRouter)
+	<%= methodname %>.NewRouter(apiRouter)
 
 	return apiRouter
 }
